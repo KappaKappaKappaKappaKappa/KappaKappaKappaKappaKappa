@@ -51,17 +51,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://wa.clck.bar/79295632910" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/lopooooop" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KappaKappaKappaKappaKappa/KappaKappaKappaKappaKappa/output/snake.svg" alt="Snake animation" />
